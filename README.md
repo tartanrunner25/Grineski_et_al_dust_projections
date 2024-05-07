@@ -6,9 +6,9 @@ for Playa surfaces. This code differs from the Mallia et al. approach as it uses
 
 Input files include:<br>
 (1) HRRR model data, which can be downloaded from the NOAA's AWS archive: https://aws.amazon.com/marketplace/pp/prodview-yd5ydptv3vuz2<br>
-(2) Soil and landuse data, in this case, processed by WRF's WPS: https://home.chpc.utah.edu/~u0703457/Grineski_et_al_2024/model_inputs/
-(3) GSL Bathymetry data from the USGS: https://home.chpc.utah.edu/~u0703457/Grineski_et_al_2024/model_inputs/
-(4) Soil fraction data from NASA: https://ldas.gsfc.nasa.gov/gldas/soils
+(2) Soil and landuse data, in this case, processed by WRF's WPS: https://home.chpc.utah.edu/~u0703457/Grineski_et_al_2024/model_inputs/<br>
+(3) GSL Bathymetry data from the USGS: https://home.chpc.utah.edu/~u0703457/Grineski_et_al_2024/model_inputs/<br>
+(4) Soil fraction data from NASA: https://ldas.gsfc.nasa.gov/gldas/soils<br><br>
 
 Note that these files can be modified to fit the user needs, but might require edits to the Python code by the user. The code was written by DVM on 7/28/2022 <br><br>
 
