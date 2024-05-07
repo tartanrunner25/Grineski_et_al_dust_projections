@@ -10,11 +10,10 @@ Input files include:<br>
 (3) GSL Bathymetry data from the USGS ./input_files<br>
 (4) Soil fraction data from NASA: ./input_files<br><br>
 
-Note that these files can be modified to fit the user needs, but might require edits to the Python code by the user. <br><br>
+Note that these files can be modified to fit the user needs, but might require edits to the Python code by the user. The code was written by DVM on 7/28/2022 <br><br>
 
 ---------
 Mallia, D. V., A. Kochanski, C. Pennell, W. Oswald, and J. C. Lin (2017), Wind-blown dust modeling using a 
 backward Lagrangian particle dispersion model. J. Appl. Meteor. Climate., 56, 2845–2867.<br>
-<br>
-Written by DVM 7/28/2022
+
 
