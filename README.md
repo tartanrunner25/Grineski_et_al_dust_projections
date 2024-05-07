@@ -10,7 +10,8 @@ Input files include:<br>
 (3) GSL Bathymetry data from the USGS: https://home.chpc.utah.edu/~u0703457/Grineski_et_al_2024/model_inputs/<br>
 (4) Soil fraction data from NASA: https://ldas.gsfc.nasa.gov/gldas/soils<br><br>
 
-Note that these files can be modified to fit the user needs, but might require edits to the Python code by the user. The code was written by DVM on 7/28/2022 <br><br>
+Note that these files can be modified to fit the user needs, but might require edits to the Python code by the user. The code was written by DVM on 7/28/2022. For any questions about this data, 
+contact Derek at Derek.Mallia@utah.edu <br><br>
 
 ---------
 Mallia, D. V., A. Kochanski, C. Pennell, W. Oswald, and J. C. Lin (2017), Wind-blown dust modeling using a 
